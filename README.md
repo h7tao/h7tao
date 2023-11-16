@@ -1,5 +1,5 @@
 <img src="Synthwave-the-surprising-solution-to-overcoming-anxiety-cover .jpg">
-hellollo :3 I'm EL POG
+hello :3 I'm EL POG
 I'm learning python
 I'm 15 years old
 add me on discord pog_sus is my discord username 
