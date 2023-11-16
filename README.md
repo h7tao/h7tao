@@ -1,4 +1,4 @@
-<img src="Synthwave-the-surprising-solution-to-overcoming-anxiety-cover .jpg">
+<img src="Hi.jpg">
 hello :3 I'm EL POG
 I'm learning python
 I'm 15 years old
