@@ -4,4 +4,4 @@
 
 <p><h4>Consider following me on reddit!</h4></p>
 
-<p><a href="https://www.reddit.com/u/El-_-POG/s/Wn8nzn66d0" target="_blank" class="external" rel="nofollow"><font color="maroon"><img src="img/Rd.png" width="60" height="50"></font></font></a> </p>
+<p><a href="https://www.reddit.com/u/Amirmehdigooli22/s/0SHVLRNpnu" target="_blank" class="external" rel="nofollow"><font color="maroon"><img src="img/Rd.png" width="60" height="50"></font></font></a> </p>
