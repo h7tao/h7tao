@@ -1,6 +1,6 @@
 <img src="img/Hi.jpg">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90EE90&multiline=true&random=false&width=435&height=150&lines=Hello+%3A3+I'm+EL+POG;I'm+15;I'm+currently+learning+python;My+discord+username+pog_sus+;That's+all+bye+%3C3" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=891BFF&random=false&width=435&lines=Hello!+I'm+h7tao!+;I'm+a+discord+bot+developer;I+use+python;My+username+on+discord+is+h7tao;I'm+friends+with+double+counter+owner+on+discord;That's+all+bye!+)](https://git.io/typing-svg)
 
 <p><h4>Consider following me on reddit!</h4></p>
 
